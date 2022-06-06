@@ -1,6 +1,7 @@
 public class Store{
 
     public Store(){
+        String productType;
         System.out.println("I am inside the constructor method.");
     }
 
